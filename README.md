@@ -1,17 +1,18 @@
 # ns-wingman
-(node server wingman)
+(node server wingman) 
+[![npm version](https://badge.fury.io/js/ns-wingman.svg)](https://badge.fury.io/js/ns-wingman)
 
 ## Synopsis
 This module simplifies some of the common tasks needed for a NodeJS application running as a server.
-Included in these tasks are:
-    * Logs start and stop of server and includes process id.
-    * Catches unhandledRejection and uncaughtException, writes to log, calls cleanup() and exit().
-   * Traps and ignores SIGHUP.
-   * Traps SIGINT, writes to log and exits gracefully.
-   * Listens to beforeExit event and calls cleanup() and exit().
-   * Allows user to register a cleanup function and set a timeout prior to calling exit().
-   * Searches nconf configuration for WinstonConsoleTransport and WinstonFileTransport properties. If found, applies.
-   * Provides an easy winston interface through exported variable winstonWingman.
+#####Included features:
+* Logs start and stop of server and includes process id.
+* Catches unhandledRejection and uncaughtException, writes to log, calls cleanup() and exit().
+* Traps and ignores SIGHUP.
+* Traps SIGINT, writes to log and exits gracefully.
+* Listens to beforeExit event and calls cleanup() and exit().
+* Allows user to register a cleanup function and set a timeout prior to calling exit().
+* Searches nconf configuration for WinstonConsoleTransport and WinstonFileTransport properties. If found, applies.
+* Provides an easy winston interface through exported variable winstonWingman.
 
 **Note:** *This class uses winston for logging.* 
 *To write to the log use one of two interfaces below:*
