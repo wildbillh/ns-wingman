@@ -1,0 +1,116 @@
+10/24/2016, 3:38:10 PM - info: Server started on pid 720
+10/24/2016, 3:38:10 PM - info: Server on pid 720 is finished with exit code 0
+10/24/2016, 3:44:29 PM - info: Server started on pid 8152
+10/24/2016, 3:44:29 PM - info: Server on pid 8152 is finished with exit code 0
+10/24/2016, 3:59:10 PM - info: Server started on pid 7228
+10/24/2016, 3:59:10 PM - info: Server on pid 7228 is finished with exit code 0
+10/24/2016, 4:13:34 PM - info: Server started on pid 1128
+10/24/2016, 4:13:34 PM - info: Server on pid 1128 is finished with exit code 0
+10/24/2016, 4:15:05 PM - info: Server started on pid 6560
+10/24/2016, 4:15:06 PM - info: Server on pid 6560 is finished with exit code 0
+10/24/2016, 4:16:56 PM - info: Server started on pid 8796
+10/24/2016, 4:16:56 PM - info: Server on pid 8796 is finished with exit code 0
+10/24/2016, 4:18:31 PM - info: Server started on pid 5444
+10/24/2016, 4:18:31 PM - info: Server on pid 5444 is finished with exit code 0
+10/24/2016, 4:20:33 PM - info: Server started on pid 5456
+10/24/2016, 4:20:33 PM - info: Server on pid 5456 is finished with exit code 0
+10/24/2016, 4:20:56 PM - info: Server started on pid 2880
+10/24/2016, 4:20:56 PM - info: Server on pid 2880 is finished with exit code 0
+10/24/2016, 4:26:29 PM - info: Server started on pid 5524
+10/24/2016, 4:26:29 PM - info: Server on pid 5524 is finished with exit code 0
+10/24/2016, 4:27:20 PM - info: Server started on pid 5688
+10/24/2016, 4:27:20 PM - info: Server on pid 5688 is finished with exit code 0
+10/24/2016, 4:28:58 PM - info: Server started on pid 8848
+10/24/2016, 4:28:58 PM - info: Server on pid 8848 is finished with exit code 0
+10/24/2016, 4:31:40 PM - info: Server started on pid 7104
+10/24/2016, 4:31:40 PM - info: Server on pid 7104 is finished with exit code 0
+10/24/2016, 4:37:16 PM - info: Server started on pid 592
+10/24/2016, 4:37:16 PM - info: Server on pid 592 is finished with exit code 0
+10/24/2016, 4:42:19 PM - info: Server started on pid 3360
+10/24/2016, 4:42:19 PM - error: uncaughtException: winston.info is not a function date=Mon Oct 24 2016 16:42:19 GMT-0400 (Eastern Daylight Time), pid=3360, uid=null, gid=null, cwd=C:\Users\hodgesw\NodeProjects\node-server-helper, execPath=C:\Program Files\nodejs\node.exe, version=v6.9.1, argv=[C:\Program Files\nodejs\node.exe, C:\Users\hodgesw\NodeProjects\node-server-helper\example\test-ns-wingman.js], rss=28774400, heapTotal=12619776, heapUsed=6356440, loadavg=[0, 0, 0], uptime=75938.5392045
+TypeError: winston.info is not a function
+    at Object.<anonymous> (C:\Users\hodgesw\NodeProjects\node-server-helper\example\test-ns-wingman.js:18:9)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:394:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:509:3
+10/24/2016, 4:42:19 PM - error: Uncaught Exception: TypeError: winston.info is not a function
+10/24/2016, 4:42:19 PM - info: Server on pid 3360 is finished with exit code 1
+10/24/2016, 4:42:40 PM - info: Server started on pid 3336
+10/24/2016, 4:42:40 PM - info: bill
+10/24/2016, 4:42:40 PM - info: Server on pid 3336 is finished with exit code 0
+10/24/2016, 4:43:10 PM - info: Server started on pid 2244
+10/24/2016, 4:43:10 PM - info: bill
+10/24/2016, 4:43:10 PM - info: Server on pid 2244 is finished with exit code 0
+10/25/2016, 5:23:45 AM - info: Server started on pid 6840
+10/25/2016, 5:23:45 AM - info: bill
+10/25/2016, 5:23:45 AM - info: Server on pid 6840 is finished with exit code 0
+10/25/2016, 7:19:28 AM - info: Server started on pid 18180
+10/25/2016, 7:19:28 AM - info: bill
+10/25/2016, 7:19:28 AM - info: Server on pid 18180 is finished with exit code 0
+10/25/2016, 7:21:13 AM - info: Server started on pid 21892
+10/25/2016, 7:21:13 AM - info: bill
+10/25/2016, 7:21:13 AM - info: Server on pid 21892 is finished with exit code 0
+10/25/2016, 7:22:25 AM - info: Server started on pid 6252
+10/25/2016, 7:22:25 AM - info: bill
+10/25/2016, 7:22:25 AM - info: Server on pid 6252 is finished with exit code 0
+10/25/2016, 7:22:36 AM - info: Server started on pid 4796
+10/25/2016, 7:22:36 AM - info: bill
+10/25/2016, 7:22:36 AM - info: Server on pid 4796 is finished with exit code 0
+10/25/2016, 7:24:54 AM - info: Server started on pid 8788
+10/25/2016, 7:24:54 AM - info: bill
+10/25/2016, 7:24:54 AM - info: Server on pid 8788 is finished with exit code 0
+10/25/2016, 7:25:41 AM - info: Server started on pid 16328
+10/25/2016, 7:25:41 AM - info: bill
+10/25/2016, 7:25:41 AM - info: Server on pid 16328 is finished with exit code 0
+10/25/2016, 7:26:44 AM - info: Server started on pid 19208
+10/25/2016, 7:26:44 AM - info: bill
+10/25/2016, 7:26:44 AM - info: Server on pid 19208 is finished with exit code 0
+10/25/2016, 7:27:40 AM - info: Server started on pid 22384
+10/25/2016, 7:27:40 AM - info: bill
+10/25/2016, 7:27:40 AM - info: Server on pid 22384 is finished with exit code 0
+10/25/2016, 7:29:14 AM - info: Server started on pid 20720
+10/25/2016, 7:29:14 AM - info: bill
+10/25/2016, 7:29:14 AM - info: Server on pid 20720 is finished with exit code 0
+10/25/2016, 7:30:02 AM - info: Server started on pid 20200
+10/25/2016, 7:30:02 AM - info: bill
+10/25/2016, 7:30:02 AM - info: Server on pid 20200 is finished with exit code 0
+10/25/2016, 7:30:24 AM - info: Server started on pid 11332
+10/25/2016, 7:30:24 AM - info: bill
+10/25/2016, 7:30:24 AM - info: Server on pid 11332 is finished with exit code 0
+10/25/2016, 11:09:24 AM - info: Server started on pid 23284
+10/25/2016, 11:09:24 AM - info: bill
+10/25/2016, 11:09:24 AM - info: Server on pid 23284 is finished with exit code 0
+10/25/2016, 11:11:30 AM - info: Server started on pid 2892
+10/25/2016, 11:11:30 AM - info: bill
+10/25/2016, 11:11:30 AM - error: uncaughtException: winstonHelper is not defined date=Tue Oct 25 2016 11:11:30 GMT-0400 (Eastern Daylight Time), pid=2892, uid=null, gid=null, cwd=C:\Users\hodgesw\NodeProjects\ns-wingman, execPath=C:\Program Files\nodejs\node.exe, version=v6.9.1, argv=[C:\Program Files\nodejs\node.exe, C:\Users\hodgesw\NodeProjects\ns-wingman\example\ns-wingman-example.js], rss=28381184, heapTotal=12619776, heapUsed=6087544, loadavg=[0, 0, 0], uptime=142489.7402583
+ReferenceError: winstonHelper is not defined
+    at Object.<anonymous> (C:\Users\hodgesw\NodeProjects\ns-wingman\example\ns-wingman-example.js:19:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:394:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:509:3
+10/25/2016, 11:11:30 AM - error: Uncaught Exception: ReferenceError: winstonHelper is not defined
+10/25/2016, 11:11:30 AM - info: Server on pid 2892 is finished with exit code 1
+10/25/2016, 11:13:27 AM - info: Server started on pid 24052
+10/25/2016, 11:13:27 AM - info: bill
+10/25/2016, 11:13:27 AM - info: should be in black and white
+10/25/2016, 11:13:27 AM - info: Server on pid 24052 is finished with exit code 0
+10/25/2016, 11:14:00 AM - info: Server started on pid 25324
+10/25/2016, 11:14:00 AM - info: bill
+10/25/2016, 11:14:00 AM - info: should be in black and white
+10/25/2016, 11:14:00 AM - info: Server on pid 25324 is finished with exit code 0
+10/25/2016, 2:17:21 PM - info: Server started on pid 21860
+10/25/2016, 2:17:21 PM - info: bill
+10/25/2016, 2:17:21 PM - info: should be in black and white now
+10/25/2016, 2:17:21 PM - info: Server on pid 21860 is finished with exit code 0

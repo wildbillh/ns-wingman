@@ -1,0 +1,7 @@
+{
+  "winstonFileTransport": {
+    "filename": "myapp.log"
+  },
+  "name": "bill"
+
+}
