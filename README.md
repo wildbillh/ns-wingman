@@ -1,6 +1,7 @@
 # ns-wingman
 ######(node server wingman) 
 
+
 [![Inline docs](http://inch-ci.org/github/wildbillh/ns-wingman.svg?branch=master)](http://inch-ci.org/github/wildbillh/ns-wingman)[![npm version](https://badge.fury.io/js/ns-wingman.svg)](https://badge.fury.io/js/ns-wingman)
 
 ## Synopsis
