@@ -1,6 +1,6 @@
 {
   "name": "ns-wingman",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Contains common features (logging, configuration, signal and event trapping) used in a node standalone server.",
   "main": "./lib/ns-wingman.js",
   "directories": {
